@@ -1,1 +1,1 @@
-//// Created by CF on 2021/5/24.//#ifndef ZIPLIST_ZIPLIST_H#define ZIPLIST_ZIPLIST_H#endif //ZIPLIST_ZIPLIST_H
+//// Created by CF on 2021/5/24.//#ifndef ZIPLIST_ZIPLIST_H#define ZIPLIST_ZIPLIST_Hunsigned char *ziplistNew (void);unsigned char *__ziplstInsert (unsigned char *zl, unsigned char *p, unsigned char *s, unsigned int slen);#endif //ZIPLIST_ZIPLIST_H
