@@ -1,0 +1,3 @@
+C:/Users/CF/CLionProjects/ziplist/cmake-build-debug/CMakeFiles/ziplist.dir
+C:/Users/CF/CLionProjects/ziplist/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/CF/CLionProjects/ziplist/cmake-build-debug/CMakeFiles/rebuild_cache.dir
