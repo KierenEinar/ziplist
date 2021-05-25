@@ -6,5 +6,19 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/CF/CLionProjects/ziplist/main.c
+stdio.h
+-
+stdint.h
+-
+ziplist.h
+C:/Users/CF/CLionProjects/ziplist/ziplist.h
+stdlib.h
+-
+memory.h
+-
+
 C:/Users/CF/CLionProjects/ziplist/ziplist.c
+
+C:/Users/CF/CLionProjects/ziplist/ziplist.h
 
