@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ziplist.dir/main.c.obj"
-  "CMakeFiles/ziplist.dir/ziplist.c.obj"
-  "libziplist.dll.a"
-  "ziplist.exe"
-  "ziplist.exe.manifest"
+  "CMakeFiles/ziplist.dir/main.c.o"
+  "CMakeFiles/ziplist.dir/ziplist.c.o"
+  "ziplist"
   "ziplist.pdb"
 )
 

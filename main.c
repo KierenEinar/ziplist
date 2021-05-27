@@ -22,5 +22,8 @@ int main() {
 
     unsigned char *encoding = (unsigned char *)(buf+1);
     printf("%d\n", encoding[0]);
+
+    printf("%d\n", '0');
+    printf("%lu\n", INT64_MAX);
     return 0;
 }

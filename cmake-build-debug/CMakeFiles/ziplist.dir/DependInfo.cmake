@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/CF/CLionProjects/ziplist/main.c" "C:/Users/CF/CLionProjects/ziplist/cmake-build-debug/CMakeFiles/ziplist.dir/main.c.obj"
-  "C:/Users/CF/CLionProjects/ziplist/ziplist.c" "C:/Users/CF/CLionProjects/ziplist/cmake-build-debug/CMakeFiles/ziplist.dir/ziplist.c.obj"
+  "/Users/kieren/Projects/ziplist/main.c" "/Users/kieren/Projects/ziplist/cmake-build-debug/CMakeFiles/ziplist.dir/main.c.o"
+  "/Users/kieren/Projects/ziplist/ziplist.c" "/Users/kieren/Projects/ziplist/cmake-build-debug/CMakeFiles/ziplist.dir/ziplist.c.o"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH

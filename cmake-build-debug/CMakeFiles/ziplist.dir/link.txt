@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\ziplist.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\ziplist.dir/objects.a @CMakeFiles\ziplist.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\ziplist.dir/objects.a -Wl,--no-whole-archive  -o ziplist.exe -Wl,--out-implib,libziplist.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ziplist.dir\linklibs.rsp
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ziplist.dir/main.c.o CMakeFiles/ziplist.dir/ziplist.c.o  -o ziplist 
