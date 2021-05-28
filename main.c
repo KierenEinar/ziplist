@@ -23,7 +23,18 @@ int main() {
     unsigned char *encoding = (unsigned char *)(buf+1);
     printf("%d\n", encoding[0]);
 
-    printf("%d\n", '0');
-    printf("%lu\n", INT64_MAX);
+    long long v = 0;
+    unsigned  int ok = string2ll("-012\n", 4, &v);
+    printf("ok=%d, v=%lld\n", ok, v);
+
+    ok = string2ll("-12", 3, &v);
+    printf("ok=%d, v=%lld\n", ok, v);
+
+    v = 0;
+    ok = string2ll("-1a34", 5, &v);
+    printf("ok=%d, v=%lld\n", ok, v);
+
+
+
     return 0;
 }
